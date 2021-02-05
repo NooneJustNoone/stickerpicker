@@ -1,0 +1,7 @@
+{
+  "homeserver_url": "https://matrix-client.matrix.org",
+  "packs": [
+    "smeshariki.json",
+    "cursedemoticon.json"
+  ]
+}
